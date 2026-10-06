@@ -1,3 +1,8 @@
+/datum/map/fort
+	fluff_name = "Крепость Айренхельм"
+	technical_name = "Fort"
+	map_path = "_maps/map_files220/medieval/fort.dmm"
+
 /datum/map/boxstation
 	fluff_name = "ИСН Кибериада"
 	technical_name = "BoxStation220"
