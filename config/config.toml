@@ -112,14 +112,14 @@ admin_ranks = [
 ]
 # List of people and the admin rank they are assigned to
 admin_assignments = [
-{ ckey = "Fabrican", rank = "Dark Lord"}
-  # {ckey = "Your Name Here", rank = "Hosting Provider"}
+  { ckey = "fabrican", rank = "Dark Lord"}
+# {ckey = "Your Name Here", rank = "Hosting Provider"}
 ]
 # Allow admins to set their own OOC colour
 allow_admin_ooc_colour = true
 # Map of admin rank colours to their respective rank. Note you can use hex or colour name here.
 admin_rank_colour_map = [
-  { name = "Head of Staff", colour = "#e74c3c" },
+  { name = "Dark Lord", colour = "#e74c3c" },
   { name = "Maintainer", colour = "#992d22" },
   { name = "Server Dev", colour = "#1abc9c" },
   { name = "Community Manager", colour = "#e91e63" },
